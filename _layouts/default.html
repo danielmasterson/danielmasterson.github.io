@@ -1,33 +1,57 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+<html lang="en">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}" />
   </head>
 
   <body>
+    <header class="site-header">
+      <div class="site-title">
+        <div class="name">{{ site.title }}</div>
+        <div class="tagline">{{ site.description }}</div>
+      </div>
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/research' | relative_url }}" {% if page.url contains '/research' %}aria-current="page"{% endif %}>Research &amp; CV</a>
+        <a href="{{ '/teaching' | relative_url }}" {% if page.url contains '/teaching' %}aria-current="page"{% endif %}>Teaching</a>
+      </nav>
+    </header>
 
-    {{ content }}
+    <main class="layout">
+      <aside class="sidebar">
+        <h2 class="sidebar-name">Daniel Masterson</h2>
 
-    </script>
+        <div class="sidebar-block">
+          <div><strong>Contact:</strong> masterson ‘at’ ucsb ‘dot’ edu</div>
+        </div>
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+        <div class="sidebar-block">
+          <div>UC Santa Barbara</div>
+          <div>Department of Political Science</div>
+          <div>Ellison Hall, Room 3713</div>
+          <div>Santa Barbara, CA</div>
+        </div>
 
-    {% include scripts.html %}
+        <div class="sidebar-block links">
+          <a href="https://scholar.google.com/citations?hl=en&user=F_7t_SMAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+          <!-- Dataverse: your CampusPress sidebar links to the Dataverse homepage; see note below -->
+          <a href="https://dataverse.harvard.edu/" target="_blank" rel="noopener">Dataverse</a>
+          <a href="https://orcid.org/0000-0003-4364-9814" target="_blank" rel="noopener">ORCID</a>
+        </div>
+      </aside>
 
+      <section class="content">
+        {{ content }}
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</div>
+    </footer>
   </body>
 </html>
