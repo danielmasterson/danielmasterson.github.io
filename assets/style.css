@@ -102,8 +102,11 @@ html, body {
   color: var(--text);
 }
 
-.sidebar-photo {
-  margin-bottom: 14px;
+.sidebar-photo img {
+  max-width: 220px;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
 }
 
 .sidebar-photo img {
