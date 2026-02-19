@@ -102,6 +102,17 @@ html, body {
   color: var(--text);
 }
 
+.sidebar-photo {
+  margin-bottom: 14px;
+}
+
+.sidebar-photo img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;   /* optional — subtle rounding */
+}
+
 .content h1 {
   margin-top: 0;
   font-size: 22px;
