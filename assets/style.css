@@ -20,6 +20,11 @@ html, body {
   padding: 18px 16px;
 }
 
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
 .site-title {
   max-width: var(--max-width);
   margin: 0 auto 10px auto;
@@ -61,6 +66,7 @@ html, body {
   grid-template-columns: 280px 1fr;
   gap: 26px;
 }
+
 
 @media (max-width: 860px) {
   .layout { grid-template-columns: 1fr; }
