@@ -69,22 +69,29 @@ html, body {
 
 
 @media (max-width: 860px) {
-  .layout { grid-template-columns: 1fr; }
-}
 
-.sidebar {
-  border-right: 1px solid var(--border);
-  padding-right: 18px;
-}
+  .layout {
+    grid-template-columns: 1fr;
+    max-width: none;
+    width: 100%;
+    margin: 0;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 
-@media (max-width: 860px) {
+  .content {
+    width: 100%;
+  }
+
   .sidebar {
     border-right: none;
     border-bottom: 1px solid var(--border);
     padding-right: 0;
     padding-bottom: 14px;
   }
+
 }
+
 
 .sidebar-name {
   margin: 0 0 10px 0;
