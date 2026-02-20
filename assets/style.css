@@ -6,6 +6,8 @@
   --bg: #fff;
 }
 
+* { box-sizing: border-box; }
+
 html, body {
   margin: 0;
   padding: 0;
@@ -23,6 +25,9 @@ html, body {
 .header-inner {
   max-width: var(--max-width);
   margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+  box-sizing: border-box;
 }
 
 .site-title {
