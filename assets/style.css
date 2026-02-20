@@ -152,3 +152,19 @@ html, body {
   padding: 16px;
   color: var(--muted);
 }
+
+.theme-toggle {
+  width: 100%;
+  padding: 6px 8px;
+  font-size: 14px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+  text-align: left;
+}
+
+.theme-toggle:hover {
+  background: var(--border);
+}
+
