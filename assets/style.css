@@ -28,6 +28,7 @@ html, body {
 .site-header {
   border-bottom: 1px solid var(--border);
   padding: 18px 16px;
+  background: var(--bg);
 }
 
 .header-inner {
@@ -153,10 +154,12 @@ html, body {
 }
 
 .content a { color: var(--text); }
+a:visited { color: var(--text); }
 .content ul { padding-left: 18px; }
 
 .site-footer {
   border-top: 1px solid var(--border);
+  background: var(--bg);
   padding: 16px;
   color: var(--muted);
 }
