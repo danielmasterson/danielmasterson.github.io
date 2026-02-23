@@ -6,7 +6,6 @@ title: Home
 # Welcome!
 
 <p>Welcome!  I am an Assistant Professor in the <a href="http://www.polsci.ucsb.edu/" target="_blank" rel="noopener noreferrer">Department of Political Science</a> at the <a href="https://www.ucsb.edu/" target="_blank" rel="noopener noreferrer">University of California, Santa Barbara</a>. Previously, I was a Postdoctoral Fellow at the <a href="http://immigrationlab.org/" target="_blank" rel="noopener noreferrer">Immigration Policy Lab</a> at Stanford University. I have a PhD in Political Science from Yale University, an MPP from Harvard’s Kennedy School, and a BA in Political Science from Bates College.</p>
-<p>I study migration, displacement, and humanitarian policy, with a regional focus in the Middle East.</p>
 I study migration, displacement, and humanitarian policy, with a regional focus in the Middle East.
 
 Some of the questions I address in my work include: How do refugees make decisions about when and where to migrate? What are the causes of conflict and peaceful coexistence between refugees and host communities? How do refugees successfully cooperate to support themselves? What interventions effectively promote the well-being of refugees?
