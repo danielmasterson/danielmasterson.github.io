@@ -92,4 +92,4 @@ permalink: /research/
 
 ## Languages
 
-Fluent Levantine Arabic, advanced Modern Standard Arabic
+- Fluent Levantine Arabic, advanced Modern Standard Arabic
