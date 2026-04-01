@@ -49,41 +49,23 @@ permalink: /research/
 - “Emotional Responses Without Policy Attitude Shifts: Examining the Limits of Affective Influence in Politics.” With Natalia Bueno and Daniel Rojas.
 
 ## Other Publications
-
 - “[From Displacement to Resilience: Aid, Economic Recovery, and Social Cohesion in Post-War Iraq](https://publications.iom.int/system/files/pdf/pub2025-040-r-from-displacement-to-resilience.pdf).” 2025. IOM report. With Andrea Caflisch, Mohammad Fidakar, Stephen D. O’Connell, Mathilde Roze, and Julia Lynn Smith-Omomo.
-
 - “[Returning Home? Why Pushing Syrian Refugees To Return Is Unlikely To Be Effective](https://immigrationlab.org/content/uploads/2023/05/Refugee-Return-Research-Brief-2023.pdf).” 2023. IPL report. With Ala Alrababah, Marine Casalis, Dominik Hangartner, and Jeremy Weinstein.
-
 - “[Striking UC academic workers say they’re underpaid. The data says they’re right](https://www.sfchronicle.com/opinion/openforum/article/UC-strike-workers-pay-17649514.php).” December 2022. *San Francisco Chronicle*, Opinion.
-
 - “[University of California PhD Pay is Among the Lowest in the U.S. After Accounting for Cost of Living](https://osf.io/preprints/socarxiv/83wfm).” 2022. Research note.
-
 - “Back-and-Forth Movements of Syrian Refugees in Lebanon.” 2022. UNHCR report. With Rosa Vidarte.
-
 - “[Knowledge about COVID-19 among Syrian Refugees in Lebanon](https://drive.google.com/file/d/1ojZOkQPx593uOL2-f5u17K3UTTLFer3Z/view?usp=share_link).” 2021. IPL report. With Ala Alrababah, Marine Casalis, Dominik Hangartner, and Jeremy Weinstein.
-
 - “[Syria and Some Host Governments Want Refugees to Go Home. What Do Refugees Think?](https://www.washingtonpost.com/politics/2020/12/24/syria-some-host-governments-want-refugees-go-home-what-do-refugees-think/)” *The Monkey Cage, The Washington Post*. December 24, 2020. With Ala Alrababah and Marine Casalis.
-
 - “[Returning Home? Conditions in Syria, Not Lebanon, Drive the Return Intentions of Syrian Refugees](https://www.poverty-action.org/sites/default/files/publications/P%26R%20Syrian%20Refugees%20Policy%20Brief_2020.09.25.pdf).” IPA–IPL Policy brief. September 2020. With Ala Alrababah, Marine Casalis, Dominik Hangartner, Jeremy Weinstein, and Nasser Yassin.
-
 - “Before the Field.” In *Safer Field Research in the Social Sciences: A Guide to Human and Digital Security in Hostile Environments.* SAGE Publications. 2020. With Jannis Grimm, Kevin Koehler, Ellen Lust, Ilyas Saliba, Isabell Schierenbeck, Sylvain Lefebvre, and Francesco Strazzari.
-
 - “[The Ethical Challenges of Field Research in the Syrian Refugee Crisis](https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/a/487/files/2019/08/Masterson-Mourad-Ethical-Challenges-of-Field-Research-in-the-Syrian-Refugee-Crisis-APSA-MENA-Newsletter-2019.pdf).” *APSA MENA Politics*, Newsletter of the MENA Politics Section of APSA, Volume 2, Issue 1. 2019. With Lama Mourad.
-
 - *Syrians in the Middle East: The Lives and Livelihoods of Refugees and Their Hosts.* The World Bank. With Nandini Krishnan, Tara Vishwanath, Monica Biradavolu, Kevin Carey, Matthew Groh, Meghan Lucas, Nethra Palaniswamy, Flavio Russo Riva, Dhiraj Sharma, Thomas Ginn, and Jacob Goldston. Internal World Bank Report.
-
 - “[‘Giving More’ Through Direct Cash Aid](https://deeply.thenewhumanitarian.org/syria/community/2016/07/21/giving-more-through-direct-cash-aid-2).” *Refugees Deeply*. 2016.
-
 - “[Giving Better: Lessons from Cash Grants for Syrian Refugees in Lebanon](https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2015-2016/20160225_impact_cash_assistance.pdf).” AUB IFI Policy Brief. 2015. [Also published in Arabic](https://www.aub.edu.lb/ifi/Documents/publications/policy_briefs/2015-2016/20160225_impact_cash_assistance_arabic.pdf).
-
 - “Impact Evaluation of the 2014-15 Winter Cash Assistance Programme for Syrian Refugees in Lebanon.” UNHCR. 2015. With Khalil El Asmar.
-
 - “[Impact Evaluation of a Cash-Transfer Programme for Syrian Refugees in Lebanon](http://www.ennonline.net/fex/48/impactevaluation).” *Field Exchange*. 2014. With Christian Lehmann.
-
 - “[Emergency Economies: The Impact of Cash Assistance in Lebanon](https://www.rescue.org/sites/default/files/document/631/emergencyeconomiesevaluationreport-lebanon2014.pdf).” International Rescue Committee report. 2014. With Christian Lehmann.
-
 - Book review of Noel Brehony’s *Yemen Divided* and Christopher Boucek and Marina Ottaway’s *Yemen on the Brink*. *International Affairs*. May 2012.
-
 - “An American Dream: The Broken Iraqi Refugee Resettlement Program and How to Fix It.” *Harvard Kennedy School Review*. Spring 2010.
 
 ## Languages
