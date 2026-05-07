@@ -10,8 +10,11 @@ permalink: /research/
 
 ## Academic Appointments
 
-- University of California, Santa Barbara, Assistant Professor, Department of Political Science, 2020–present
-- Stanford University, Postdoctoral Fellow, Immigration Policy Lab, 2018–2020
+- University of California, Santa Barbara
+  - Associate Professor, Department of Political Science, 2026–present
+  - Assistant Professor, Department of Political Science, 2020–2026
+- Stanford University
+  - Postdoctoral Fellow, Immigration Policy Lab, 2018–2020
 
 ## Education
 
