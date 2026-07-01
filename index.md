@@ -5,7 +5,7 @@ title: Home
 
 # Welcome!
 
-I am an Assistant Professor in the [Department of Political Science](http://www.polsci.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/). I was recently promoted to Associate Professor (with tenure), effective July 1, 2026.
+I am an Associate Professor in the [Department of Political Science](http://www.polsci.ucsb.edu/) at the [University of California, Santa Barbara](https://www.ucsb.edu/).
 
 Previously, I was a Postdoctoral Fellow at the [Immigration Policy Lab](http://immigrationlab.org/) at Stanford University. I have a PhD in Political Science from Yale University, an MPP from Harvard’s Kennedy School, and a BA in Political Science from Bates College.
 
