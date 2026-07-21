@@ -27,9 +27,9 @@ permalink: /research/
 ### Articles in Peer-Reviewed Journals
 
 - [“Circular Refugee Migration: Understanding Protracted Displacement Beyond a Refugee-Returnee Binary”](https://doi.org/10.1177/01979183261427441). 2026. With Rosa Vidarte. *International Migration Review*.
-
+- 
 - [“Reducing Attrition in Phone-Based Panel Surveys”](https://doi.org/10.1017/psrm.2025.6). 2025. With Ala Alrababah, Marine Casalis, Dominik Hangartner, Stefan Wehrli, and Jeremy Weinstein. *Political Science Research and Methods*.
-
+- 
 - [“Refugee Networks, Cooperation, and Resource Access”](https://www.cambridge.org/core/journals/american-political-science-review/article/refugee-networks-cooperation-and-resource-access/55EB5D416D09DD47069132B471408F5E). 2024. *American Political Science Review*.
   - [Online Appendix](https://www.dropbox.com/scl/fi/gi9g1j63h5y8w0c25zg0t/refugee-networks-cooperation-appendix.pdf?rlkey=h0pay4qh4i84dq7p2a17db5zm&raw=1)
   - [Supplementary Tables](https://www.dropbox.com/scl/fi/y1y4iceprfqz6fu09btkh/refugee-networks-cooperation-supplementary-tables.pdf?rlkey=gexq3zkyc8cwif0y0di2aqfc5&raw=1)
@@ -54,21 +54,21 @@ permalink: /research/
 
 ### Working Papers
 
-- **“Return as Displacement: Deportation and Capabilities in Honduras.”**  
+- “Return as Displacement: Deportation and Capabilities in Honduras.” 
   With Hannah M. Postel.  
   *Revise and Resubmit at the Journal of Ethnic and Migration Studies.*
 
-- **“Refugee Forbearance and Protracted Displacement: A Panel Study of Syrian Refugees in Lebanon’s Economic Collapse.”**  
+- “Refugee Forbearance and Protracted Displacement: A Panel Study of Syrian Refugees in Lebanon’s Economic Collapse.”
   With Ala Alrababah and Marine Casalis.  
   *Revise and Resubmit at the Journal of Peace Research.*
 
-- **“Economic Recovery and Social Cohesion: A Field Experiment with Capital Grants in Post-Conflict Iraq.”**  
+- “Economic Recovery and Social Cohesion: A Field Experiment with Capital Grants in Post-Conflict Iraq.”  
   With Andrea C. Caflisch, Stephen D. O’Connell, and Julia L. Smith-Omomo.
 
-- **[“When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia.”](https://osf.io/preprints/socarxiv/ftsuz)**  
+- [“When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia.”](https://osf.io/preprints/socarxiv/ftsuz)  
   With Natalia Bueno and Daniel Rojas.
 
-- **“Machine-Learning Geographic Sampling Frames Underrepresent People on the Move in Fragile Settings.”**  
+- “Machine-Learning Geographic Sampling Frames Underrepresent People on the Move in Fragile Settings.”  
   With Andrea C. Caflisch, Stephen D. O’Connell, Ettan Patel, and Julia Smith-Omomo.
 
 ### Other Publications
