@@ -27,27 +27,21 @@ permalink: /research/
 ### Articles in Peer-Reviewed Journals
 
 - [“Circular Refugee Migration: Understanding Protracted Displacement Beyond a Refugee-Returnee Binary”](https://doi.org/10.1177/01979183261427441). 2026. With Rosa Vidarte. *International Migration Review*.
-- 
 - [“Reducing Attrition in Phone-Based Panel Surveys”](https://doi.org/10.1017/psrm.2025.6). 2025. With Ala Alrababah, Marine Casalis, Dominik Hangartner, Stefan Wehrli, and Jeremy Weinstein. *Political Science Research and Methods*.
-- 
 - [“Refugee Networks, Cooperation, and Resource Access”](https://www.cambridge.org/core/journals/american-political-science-review/article/refugee-networks-cooperation-and-resource-access/55EB5D416D09DD47069132B471408F5E). 2024. *American Political Science Review*.
   - [Online Appendix](https://www.dropbox.com/scl/fi/gi9g1j63h5y8w0c25zg0t/refugee-networks-cooperation-appendix.pdf?rlkey=h0pay4qh4i84dq7p2a17db5zm&raw=1)
   - [Supplementary Tables](https://www.dropbox.com/scl/fi/y1y4iceprfqz6fu09btkh/refugee-networks-cooperation-supplementary-tables.pdf?rlkey=gexq3zkyc8cwif0y0di2aqfc5&raw=1)
   - [Replication Data](https://doi.org/10.7910/DVN/IZWS10)
   - [Audio Vignettes: Audio and Subtitles](https://bit.ly/vignettesaudio)
-
 - [“The Dynamics of Refugee Return: Syrian Refugees and Their Migration Intentions”](https://doi.org/10.1017/S0007123422000667). 2023. With Ala Alrababah, Marine Casalis, Dominik Hangartner, and Jeremy Weinstein. *British Journal of Political Science*.
   - [Online Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0007123422000667/resource/name/S0007123422000667sup001.pdf)
   - [Replication Data](https://doi.org/10.7910/DVN/FK2NEV)
-
 - [“Does Halting Refugee Resettlement Reduce Crime? Evidence from the US Refugee Ban”](https://www.cambridge.org/core/journals/american-political-science-review/article/does-halting-refugee-resettlement-reduce-crime-evidence-from-the-us-refugee-ban/E111764FC700841C5E5FD3FAA2A6BE8C?utm_source=hootsuite&utm_medium=twitter&utm_campaign=PSR_Mar21). 2021. With Vasil Yasenov. *American Political Science Review*.
   - [Online Appendix](https://osf.io/preprints/socarxiv/w2x7p/)
   - [Replication Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KDOM7E)
-
 - [“Does Aid Reduce Anti-Refugee Violence? Evidence from Syrian Refugees in Lebanon”](https://www.dropbox.com/s/xmzygtlm3p4yh2j/lehmann_masterson_anti-refugee_violence_may2020.pdf?raw=1). 2020. With Christian Lehmann. *American Political Science Review*.
   - [Online Appendix](https://www.dropbox.com/s/txixa6ar91ah2ir/lehmann_masterson_anti-refugee_violence_may2020_online_appendix.pdf?raw=1)
   - [Replication Data](https://doi.org/10.7910/DVN/5LAZ54)
-
 - [“Refugees, Mobilization, and Humanitarian Aid: Evidence from the Syrian Refugee Crisis in Lebanon”](https://www.dropbox.com/s/7jor6a6zhu2expl/2019%20JCR%20Masterson%20Lehmann.pdf?raw=1). 2019. With Christian Lehmann. *Journal of Conflict Resolution*.
   - [Online Appendix](https://www.dropbox.com/s/yh3o7a7420pzcgo/Online-Appendix-Humanitarian-Aid-and-Civil-War.pdf?raw=1)
   - [Replication Data](https://doi.org/10.7910/DVN/QGZY0B)
