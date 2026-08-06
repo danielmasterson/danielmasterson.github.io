@@ -28,6 +28,8 @@ permalink: /research/
 
 - [“Circular Refugee Migration: Understanding Protracted Displacement Beyond a Refugee-Returnee Binary”](https://doi.org/10.1177/01979183261427441). 2026. With Rosa Vidarte. *International Migration Review*.
 - [“Reducing Attrition in Phone-Based Panel Surveys”](https://doi.org/10.1017/psrm.2025.6). 2025. With Ala Alrababah, Marine Casalis, Dominik Hangartner, Stefan Wehrli, and Jeremy Weinstein. *Political Science Research and Methods*.
+   - [Web Application Code](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CPACNZ)
+   - [Online Appendix](https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS2049847025000068/resource/name/S2049847025000068sup001.pdf)
 - [“Refugee Networks, Cooperation, and Resource Access”](https://www.cambridge.org/core/journals/american-political-science-review/article/refugee-networks-cooperation-and-resource-access/55EB5D416D09DD47069132B471408F5E). 2024. *American Political Science Review*.
   - [Online Appendix](https://www.dropbox.com/scl/fi/gi9g1j63h5y8w0c25zg0t/refugee-networks-cooperation-appendix.pdf?rlkey=h0pay4qh4i84dq7p2a17db5zm&raw=1)
   - [Supplementary Tables](https://www.dropbox.com/scl/fi/y1y4iceprfqz6fu09btkh/refugee-networks-cooperation-supplementary-tables.pdf?rlkey=gexq3zkyc8cwif0y0di2aqfc5&raw=1)
