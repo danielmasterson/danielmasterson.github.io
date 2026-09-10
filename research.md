@@ -56,6 +56,8 @@ permalink: /research/
 - “Refugee Forbearance and Protracted Displacement: A Panel Study of Syrian Refugees in Lebanon’s Economic Collapse.”
   With Ala Alrababah and Marine Casalis.  
   *Revise and Resubmit at the Journal of Peace Research.*
+- [“Refugee Return: Theory and Evidence.”](https://osf.io/preprints/socarxiv/npqes_v1)
+  With Ala Alrababah, Marine Casalis, Dominik Hangartner, and Jeremy Weinstein.  
 - “Economic Recovery and Social Cohesion: A Field Experiment with Capital Grants in Post-Conflict Iraq.”  
   With Andrea C. Caflisch, Stephen D. O’Connell, and Julia L. Smith-Omomo.
 - [“When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia.”](https://osf.io/preprints/socarxiv/ftsuz)  
