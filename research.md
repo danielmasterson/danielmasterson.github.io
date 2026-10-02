@@ -62,7 +62,7 @@ permalink: /research/
   With Andrea C. Caflisch, Stephen D. O’Connell, and Julia L. Smith-Omomo.
 - [“When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia.”](https://osf.io/preprints/socarxiv/ftsuz)
   With Natalia Bueno and Daniel Rojas.
-- [“Machine-Learning Geographic Sampling Frames Underrepresent People on the Move in Fragile Settings.”] (https://osf.io/preprints/socarxiv/zy7ua_v1)
+- [“Machine-Learning Geographic Sampling Frames Underrepresent People on the Move in Fragile Settings.”](https://osf.io/preprints/socarxiv/zy7ua_v1)
   With Andrea C. Caflisch, Stephen D. O’Connell, Ettan Patel, and Julia Smith-Omomo.
 
 ### Other Publications
