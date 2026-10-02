@@ -58,11 +58,11 @@ permalink: /research/
   *Revise and Resubmit at the Journal of Peace Research.*
 - [“Refugee Return: Theory and Evidence.”](https://osf.io/preprints/socarxiv/npqes_v1)
   With Ala Alrababah, Marine Casalis, Dominik Hangartner, and Jeremy Weinstein.  
-- “Economic Recovery and Social Cohesion: A Field Experiment with Capital Grants in Post-Conflict Iraq.”  
+- “Economic Recovery and Social Cohesion: A Field Experiment with Capital Grants in Post-Conflict Iraq.”
   With Andrea C. Caflisch, Stephen D. O’Connell, and Julia L. Smith-Omomo.
-- [“When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia.”](https://osf.io/preprints/socarxiv/ftsuz)  
+- [“When Does the Public Care About Immigration? The Political Salience of Venezuelan Immigration in Colombia.”](https://osf.io/preprints/socarxiv/ftsuz)
   With Natalia Bueno and Daniel Rojas.
-- “Machine-Learning Geographic Sampling Frames Underrepresent People on the Move in Fragile Settings.”  
+- [“Machine-Learning Geographic Sampling Frames Underrepresent People on the Move in Fragile Settings.”] (https://osf.io/preprints/socarxiv/zy7ua_v1)
   With Andrea C. Caflisch, Stephen D. O’Connell, Ettan Patel, and Julia Smith-Omomo.
 
 ### Other Publications
