@@ -67,7 +67,7 @@ permalink: /research/
 
 ### Other Publications
 
-- [“From Displacement to Resilience: Aid, Economic Recovery, and Social Cohesion in Post-War Iraq”](https://publications.iom.int/system/files/pdf/pub2025-040-r-from-displacement-to-resilience.pdf). 2025. IOM report. With Andrea Caflisch, Mohammad Fidakar, Stephen D. O’Connell, Mathilde Roze, and Julia Lynn Smith-Omomo.
+- [“From Displacement to Resilience: Aid, Economic Recovery, and Social Cohesion in Post-War Iraq”](https://publications.iom.int/books/displacement-resilience-aid-economic-recovery-and-social-cohesion-post-war-iraq). 2025. IOM report. With Andrea Caflisch, Mohammad Fidakar, Stephen D. O’Connell, Mathilde Roze, and Julia Lynn Smith-Omomo.
 - [“Returning Home? Why Pushing Syrian Refugees to Return Is Unlikely to Be Effective”](https://immigrationlab.org/content/uploads/2023/05/Refugee-Return-Research-Brief-2023.pdf). 2023. IPL report. With Ala Alrababah, Marine Casalis, Dominik Hangartner, and Jeremy Weinstein.
 - [“Striking UC Academic Workers Say They’re Underpaid. The Data Says They’re Right”](https://www.sfchronicle.com/opinion/openforum/article/UC-strike-workers-pay-17649514.php). December 2022. *San Francisco Chronicle*, Opinion.
 - [“University of California PhD Pay Is Among the Lowest in the U.S. After Accounting for Cost of Living”](https://osf.io/preprints/socarxiv/83wfm). 2022. Research note.
